@@ -2,5 +2,5 @@
 2. [PRD]()
 3. [Project Board](https://github.com/orgs/AmakrushAI/projects/1)
 4. Figma board - [Link](https://www.figma.com/file/ZwFg8Dy2LkPIG2xwwuK0qH/AmaKrushi-AI?node-id=0-1&t=Ehjw9RUnT8yb3esu-0)
-5. [AKAI Planning Sheet](url)
+5. [AKAI Planning Sheet](https://docs.google.com/spreadsheets/d/1C-AsJ-WcYww2avlTblhBEbgiDGw9RyQmQSfCsVEvLJs/edit#gid=1863624664)
 6. [Demo Video](https://www.linkedin.com/posts/uvijay_samagrax-chatgpt-bhashini-activity-7048989932345778176-ek42?utm_source=share&utm_medium=member_desktop)
