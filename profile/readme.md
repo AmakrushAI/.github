@@ -5,3 +5,10 @@
 5. [AKAI Planning Sheet](https://docs.google.com/spreadsheets/d/1C-AsJ-WcYww2avlTblhBEbgiDGw9RyQmQSfCsVEvLJs/edit#gid=1863624664)
 6. [Demo Video](https://www.linkedin.com/posts/uvijay_samagrax-chatgpt-bhashini-activity-7048989932345778176-ek42?utm_source=share&utm_medium=member_desktop)
 7. [AmaKrushai App](https://app-amakrushi.vercel.app/)
+
+
+***Release Plan***
+| Release | Date        |        Features             | Audience |
+| ------- | ----        | --------------------------  | -------- |
+| Alpha   | May-26-2023 | All except Speech to text   | 2000 to 10,000 | 
+| Beta    | TBD         | Speech to text              | 10,000         |
