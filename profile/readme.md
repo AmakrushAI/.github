@@ -12,5 +12,5 @@
 ***Release Plan***
 | Release | Date        |        Features             | Audience |
 | ------- | ----        | --------------------------  | -------- |
-| Alpha   | May-26-2023 | All except Speech to text   | 2000 to 10,000 | 
+| Alpha   | May-01-2023 | All except Speech to text   | 2000 to 10,000 | 
 | Beta    | TBD         | Speech to text              | 10,000         |
