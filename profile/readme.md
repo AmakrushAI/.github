@@ -8,7 +8,11 @@
 8. [AmaKrushai Admin App](https://admin-console-two.vercel.app/#/login)
 9. [Password Sheet](https://docs.google.com/spreadsheets/d/1Fdm74h1TT684gDfyUX-PEKpDmaEUuCLv0HQDvccsHR8/edit#gid=0)
 10. [Content Issues Sheet](https://docs.google.com/spreadsheets/d/1d17vUmvoHme6GdbDjkD-tNiFwMrJAHGUATkXZRRGCiQ/edit#gid=0)
-
+11. Common Repos
+  - [BFF](https://github.com/AmakrushAI/bff)
+  - [AI Tools](https://github.com/Samagra-Development/ai-tools)
+  - [App](https://github.com/AmakrushAI/app)
+  - [Transport Socket](https://github.com/samagra-comms/transport-socket/tree/akai)
 
 ***Release Plan***
 | Release | Date        |        Features             | Audience |
