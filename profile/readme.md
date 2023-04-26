@@ -6,7 +6,8 @@
 6. [Demo Video](https://www.linkedin.com/posts/uvijay_samagrax-chatgpt-bhashini-activity-7048989932345778176-ek42?utm_source=share&utm_medium=member_desktop)
 7. [AmaKrushai App](https://app-amakrushi.vercel.app/)
 8. [AmaKrushai Admin App](https://admin-console-two.vercel.app/#/login)
-8. [Password Sheet](https://docs.google.com/spreadsheets/d/1Fdm74h1TT684gDfyUX-PEKpDmaEUuCLv0HQDvccsHR8/edit#gid=0)
+9. [Password Sheet](https://docs.google.com/spreadsheets/d/1Fdm74h1TT684gDfyUX-PEKpDmaEUuCLv0HQDvccsHR8/edit#gid=0)
+10. [Content Issues Sheet](https://docs.google.com/spreadsheets/d/1d17vUmvoHme6GdbDjkD-tNiFwMrJAHGUATkXZRRGCiQ/edit#gid=0)
 
 
 ***Release Plan***
