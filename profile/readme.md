@@ -15,4 +15,5 @@
   - [Transport Socket](https://github.com/samagra-comms/transport-socket/tree/akai)
 
 ***Release Plan***
-Released -  [Link]([url](https://amakrushai.samagra.io/)https://amakrushai.samagra.io/)
+
+Released -  [Link](https://amakrushai.samagra.io/)
