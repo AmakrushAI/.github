@@ -15,7 +15,4 @@
   - [Transport Socket](https://github.com/samagra-comms/transport-socket/tree/akai)
 
 ***Release Plan***
-| Release | Date        |        Features             | Audience |
-| ------- | ----        | --------------------------  | -------- |
-| Alpha   | May-01-2023 | All except Speech to text   | 2000 to 10,000 | 
-| Beta    | TBD         | Speech to text              | 10,000         |
+Released -  [Link]([url](https://amakrushai.samagra.io/)https://amakrushai.samagra.io/)
